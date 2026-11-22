@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bronze Pattern Design / 青铜纹样设计"
+  short_description: "Redraw bronze motifs for products and print"
+  default_prompt: "用 $bronze-pattern-design 识别并重绘我提供的青铜纹样，再转译为适合实际使用的产品设计。"
